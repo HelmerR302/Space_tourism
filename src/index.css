@@ -205,10 +205,15 @@ body {
 
 a:link {
   text-decoration: none;
+  color: #ffffff;
 }
 
 a:visited {
   color: var(--main-color-white);
+}
+
+a:active {
+  color: #ffffff;
 }
 
 /* ------------------ Responsive -------------------- */
