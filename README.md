@@ -11,7 +11,7 @@ This is a multipage website for Space Tourism, built with React, HTML, CSS, and 
 
 ## Screenshot
 
-![Preview]()
+![Preview](https://github.com/HelmerR302/Space_tourism/blob/main/Space_tourism_preview.png?raw=true)
 
 ## Live link
 
