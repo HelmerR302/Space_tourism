@@ -7,7 +7,7 @@ This is a multipage website for Space Tourism, built with React, HTML, CSS, and 
 ## Features
 
 - Implemented a mobile-first approach to ensure a responsive design
-- Utilised reusable code blocks to enhance development efficiency and maintainability
+- Followed Single Responsibility Principle, created reusable code blocks to enhance development efficiency and maintainability
 
 ## Screenshot
 
